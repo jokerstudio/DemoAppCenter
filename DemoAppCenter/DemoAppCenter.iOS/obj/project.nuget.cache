@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKUC3EFPgEz1K7+4usZoNGT3wXDH1tHCapJ+9l6Wp3fc8gC0P49D8oCXIg6MBxz+NoRieMyxCLr2VRI4NODJiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joker\\source\\repos\\DemoAppCenter\\DemoAppCenter\\DemoAppCenter.iOS\\DemoAppCenter.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joker\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
